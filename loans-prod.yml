@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-loans:
+loan:
   message: "Welcome to EazyBank loans related production APIs"
   contactDetails:
     name: "Reine Aishwarva - producu Owner"
